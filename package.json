@@ -1,7 +1,8 @@
 {
-  "name": "com.yasirkula.ingamedebugconsole",
+  "name": "com.ellyality.debug.console",
   "displayName": "In-game Debug Console",
-  "version": "1.6.7",
+  "version": "1.0.0",
+  "author": "Elly Debug",
   "documentationUrl": "https://github.com/yasirkula/UnityIngameDebugConsole",
   "changelogUrl": "https://github.com/yasirkula/UnityIngameDebugConsole/releases",
   "licensesUrl": "https://github.com/yasirkula/UnityIngameDebugConsole/blob/master/LICENSE.txt",
